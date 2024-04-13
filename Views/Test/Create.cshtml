@@ -1,0 +1,23 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <title>Create</title>
+</head>
+<body>
+    <form action="/test/add" method="get">
+        @for (int i = 1; i < 6; i++)
+        {
+            <input type="text" name="degree.@i"/>
+        }
+        <input type="submit" value="add"/>
+    </form>
+</body>
+</html>

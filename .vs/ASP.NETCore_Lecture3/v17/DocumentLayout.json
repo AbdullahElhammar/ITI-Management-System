@@ -1,0 +1,404 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ASP.NET CORE MVC\\DAY3\\ASP.NETCore_Lecture3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B618E8E-48C9-4AA7-83E7-CCB1979DBA2F}|..\\ASP.NET DAY3 EntityFrameWork\\ASP.NET_DAY3_EntityFrameWork.csproj|d:\\asp.net core mvc\\day3\\asp.net day3 entityframework\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B618E8E-48C9-4AA7-83E7-CCB1979DBA2F}|..\\ASP.NET DAY3 EntityFrameWork\\ASP.NET_DAY3_EntityFrameWork.csproj|d:\\asp.net core mvc\\day3\\asp.net day3 entityframework\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B618E8E-48C9-4AA7-83E7-CCB1979DBA2F}|..\\ASP.NET DAY3 EntityFrameWork\\ASP.NET_DAY3_EntityFrameWork.csproj|d:\\asp.net core mvc\\day3\\asp.net day3 entityframework\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B618E8E-48C9-4AA7-83E7-CCB1979DBA2F}|..\\ASP.NET DAY3 EntityFrameWork\\ASP.NET_DAY3_EntityFrameWork.csproj|d:\\asp.net core mvc\\day3\\asp.net day3 entityframework\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B618E8E-48C9-4AA7-83E7-CCB1979DBA2F}|..\\ASP.NET DAY3 EntityFrameWork\\ASP.NET_DAY3_EntityFrameWork.csproj|d:\\asp.net core mvc\\day3\\asp.net day3 entityframework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B618E8E-48C9-4AA7-83E7-CCB1979DBA2F}|..\\ASP.NET DAY3 EntityFrameWork\\ASP.NET_DAY3_EntityFrameWork.csproj|d:\\asp.net core mvc\\day3\\asp.net day3 entityframework\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B618E8E-48C9-4AA7-83E7-CCB1979DBA2F}|..\\ASP.NET DAY3 EntityFrameWork\\ASPDAY3EntityFrameWork.csproj|d:\\asp.net core mvc\\day3\\asp.net day3 entityframework\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B618E8E-48C9-4AA7-83E7-CCB1979DBA2F}|..\\ASP.NET DAY3 EntityFrameWork\\ASP.NET_DAY3_EntityFrameWork.csproj|d:\\asp.net core mvc\\day3\\asp.net day3 entityframework\\controllers\\departmentcoursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B618E8E-48C9-4AA7-83E7-CCB1979DBA2F}|..\\ASP.NET DAY3 EntityFrameWork\\ASPDAY3EntityFrameWork.csproj|d:\\asp.net core mvc\\day3\\asp.net day3 entityframework\\controllers\\departmentcoursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B618E8E-48C9-4AA7-83E7-CCB1979DBA2F}|..\\ASP.NET DAY3 EntityFrameWork\\ASP.NET DAY3 EntityFrameWork.csproj|d:\\asp.net core mvc\\day3\\asp.net day3 entityframework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B618E8E-48C9-4AA7-83E7-CCB1979DBA2F}|..\\ASP.NET DAY3 EntityFrameWork\\ASP.NET_DAY3_EntityFrameWork.csproj|d:\\asp.net core mvc\\day3\\asp.net day3 entityframework\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B618E8E-48C9-4AA7-83E7-CCB1979DBA2F}|..\\ASP.NET DAY3 EntityFrameWork\\ASPDAY3EntityFrameWork.csproj|d:\\asp.net core mvc\\day3\\asp.net day3 entityframework\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B618E8E-48C9-4AA7-83E7-CCB1979DBA2F}|..\\ASP.NET DAY3 EntityFrameWork\\ASPDAY3EntityFrameWork.csproj|d:\\asp.net core mvc\\day3\\asp.net day3 entityframework\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B618E8E-48C9-4AA7-83E7-CCB1979DBA2F}|..\\ASP.NET DAY3 EntityFrameWork\\ASP.NET_DAY3_EntityFrameWork.csproj|d:\\asp.net core mvc\\day3\\asp.net day3 entityframework\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B618E8E-48C9-4AA7-83E7-CCB1979DBA2F}|..\\ASP.NET DAY3 EntityFrameWork\\ASP.NET_DAY3_EntityFrameWork.csproj|d:\\asp.net core mvc\\day3\\asp.net day3 entityframework\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B618E8E-48C9-4AA7-83E7-CCB1979DBA2F}|..\\ASP.NET DAY3 EntityFrameWork\\ASP.NET DAY3 EntityFrameWork.csproj|d:\\asp.net core mvc\\day3\\asp.net day3 entityframework\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B618E8E-48C9-4AA7-83E7-CCB1979DBA2F}|..\\ASP.NET DAY3 EntityFrameWork\\ASPDAY3EntityFrameWork.csproj|d:\\asp.net core mvc\\day3\\asp.net day3 entityframework\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B618E8E-48C9-4AA7-83E7-CCB1979DBA2F}|..\\ASP.NET DAY3 EntityFrameWork\\ASPDAY3EntityFrameWork.csproj|d:\\asp.net core mvc\\day3\\asp.net day3 entityframework\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B618E8E-48C9-4AA7-83E7-CCB1979DBA2F}|..\\ASP.NET DAY3 EntityFrameWork\\ASPDAY3EntityFrameWork.csproj|d:\\asp.net core mvc\\day3\\asp.net day3 entityframework\\migrations\\20240228161658_m1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B618E8E-48C9-4AA7-83E7-CCB1979DBA2F}|..\\ASP.NET DAY3 EntityFrameWork\\ASPDAY3EntityFrameWork.csproj|d:\\asp.net core mvc\\day3\\asp.net day3 entityframework\\migrations\\20240228185810_email-column.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B618E8E-48C9-4AA7-83E7-CCB1979DBA2F}|..\\ASP.NET DAY3 EntityFrameWork\\ASP.NET DAY3 EntityFrameWork.csproj|d:\\asp.net core mvc\\day3\\asp.net day3 entityframework\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B618E8E-48C9-4AA7-83E7-CCB1979DBA2F}|..\\ASP.NET DAY3 EntityFrameWork\\ASP.NET DAY3 EntityFrameWork.csproj|d:\\asp.net core mvc\\day3\\asp.net day3 entityframework\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B618E8E-48C9-4AA7-83E7-CCB1979DBA2F}|..\\ASP.NET DAY3 EntityFrameWork\\ASP.NET DAY3 EntityFrameWork.csproj|d:\\asp.net core mvc\\day3\\asp.net day3 entityframework\\models\\iticontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B618E8E-48C9-4AA7-83E7-CCB1979DBA2F}|..\\ASP.NET DAY3 EntityFrameWork\\ASP.NET DAY3 EntityFrameWork.csproj|d:\\asp.net core mvc\\day3\\asp.net day3 entityframework\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B618E8E-48C9-4AA7-83E7-CCB1979DBA2F}|..\\ASP.NET DAY3 EntityFrameWork\\ASP.NET DAY3 EntityFrameWork.csproj|d:\\asp.net core mvc\\day3\\asp.net day3 entityframework\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\ASP.NET CORE MVC\\DAY3\\ASP.NET DAY3 EntityFrameWork\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "..\\ASP.NET DAY3 EntityFrameWork\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\ASP.NET CORE MVC\\DAY3\\ASP.NET DAY3 EntityFrameWork\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "..\\ASP.NET DAY3 EntityFrameWork\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T13:36:19.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DepartmentCourseController.cs",
+              "DocumentMoniker": "D:\\ASP.NET CORE MVC\\DAY3\\ASP.NET DAY3 EntityFrameWork\\Controllers\\DepartmentCourseController.cs",
+              "RelativeDocumentMoniker": "..\\ASP.NET DAY3 EntityFrameWork\\Controllers\\DepartmentCourseController.cs",
+              "ToolTip": "D:\\ASP.NET CORE MVC\\DAY3\\ASP.NET DAY3 EntityFrameWork\\Controllers\\DepartmentCourseController.cs",
+              "RelativeToolTip": "..\\ASP.NET DAY3 EntityFrameWork\\Controllers\\DepartmentCourseController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T13:36:17.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ASP.NET CORE MVC\\DAY3\\ASP.NET DAY3 EntityFrameWork\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ASP.NET DAY3 EntityFrameWork\\Program.cs",
+              "ToolTip": "D:\\ASP.NET CORE MVC\\DAY3\\ASP.NET DAY3 EntityFrameWork\\Program.cs",
+              "RelativeToolTip": "..\\ASP.NET DAY3 EntityFrameWork\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T13:32:12.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "D:\\ASP.NET CORE MVC\\DAY3\\ASP.NET DAY3 EntityFrameWork\\ViewModels\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "..\\ASP.NET DAY3 EntityFrameWork\\ViewModels\\RegisterViewModel.cs",
+              "ToolTip": "D:\\ASP.NET CORE MVC\\DAY3\\ASP.NET DAY3 EntityFrameWork\\ViewModels\\RegisterViewModel.cs",
+              "RelativeToolTip": "..\\ASP.NET DAY3 EntityFrameWork\\ViewModels\\RegisterViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T13:20:41.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\ASP.NET CORE MVC\\DAY3\\ASP.NET DAY3 EntityFrameWork\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "..\\ASP.NET DAY3 EntityFrameWork\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\ASP.NET CORE MVC\\DAY3\\ASP.NET DAY3 EntityFrameWork\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "..\\ASP.NET DAY3 EntityFrameWork\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAYwBoAAABnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T13:25:28.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET CORE MVC\\DAY3\\ASP.NET DAY3 EntityFrameWork\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "..\\ASP.NET DAY3 EntityFrameWork\\Views\\Account\\Register.cshtml",
+              "ToolTip": "D:\\ASP.NET CORE MVC\\DAY3\\ASP.NET DAY3 EntityFrameWork\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "..\\ASP.NET DAY3 EntityFrameWork\\Views\\Account\\Register.cshtml",
+              "ViewState": "AQIAABMAAACAMjMzMzMLwAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-03T22:03:19.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "D:\\ASP.NET CORE MVC\\DAY3\\ASP.NET DAY3 EntityFrameWork\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "..\\ASP.NET DAY3 EntityFrameWork\\Controllers\\DepartmentController.cs",
+              "ToolTip": "D:\\ASP.NET CORE MVC\\DAY3\\ASP.NET DAY3 EntityFrameWork\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "..\\ASP.NET DAY3 EntityFrameWork\\Controllers\\DepartmentController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T21:34:42.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "D:\\ASP.NET CORE MVC\\DAY3\\ASP.NET DAY3 EntityFrameWork\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "..\\ASP.NET DAY3 EntityFrameWork\\ViewModels\\LoginViewModel.cs",
+              "ToolTip": "D:\\ASP.NET CORE MVC\\DAY3\\ASP.NET DAY3 EntityFrameWork\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "..\\ASP.NET DAY3 EntityFrameWork\\ViewModels\\LoginViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T13:22:14.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\ASP.NET CORE MVC\\DAY3\\ASP.NET DAY3 EntityFrameWork\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "..\\ASP.NET DAY3 EntityFrameWork\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\ASP.NET CORE MVC\\DAY3\\ASP.NET DAY3 EntityFrameWork\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "..\\ASP.NET DAY3 EntityFrameWork\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T20:36:45.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET CORE MVC\\DAY3\\ASP.NET DAY3 EntityFrameWork\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "..\\ASP.NET DAY3 EntityFrameWork\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\ASP.NET CORE MVC\\DAY3\\ASP.NET DAY3 EntityFrameWork\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "..\\ASP.NET DAY3 EntityFrameWork\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAACUAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-03T20:40:43.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DepartmentCourseController.cs",
+              "DocumentMoniker": "D:\\ASP.NET CORE MVC\\DAY3\\ASP.NET DAY3 EntityFrameWork\\Controllers\\DepartmentCourseController.cs",
+              "RelativeDocumentMoniker": "..\\ASP.NET DAY3 EntityFrameWork\\Controllers\\DepartmentCourseController.cs",
+              "ToolTip": "D:\\ASP.NET CORE MVC\\DAY3\\ASP.NET DAY3 EntityFrameWork\\Controllers\\DepartmentCourseController.cs",
+              "RelativeToolTip": "..\\ASP.NET DAY3 EntityFrameWork\\Controllers\\DepartmentCourseController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T20:36:31.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ASP.NET CORE MVC\\DAY3\\ASP.NET DAY3 EntityFrameWork\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ASP.NET DAY3 EntityFrameWork\\Program.cs",
+              "ToolTip": "D:\\ASP.NET CORE MVC\\DAY3\\ASP.NET DAY3 EntityFrameWork\\Program.cs",
+              "RelativeToolTip": "..\\ASP.NET DAY3 EntityFrameWork\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T08:15:12.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET CORE MVC\\DAY3\\ASP.NET DAY3 EntityFrameWork\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "..\\ASP.NET DAY3 EntityFrameWork\\Views\\Account\\Login.cshtml",
+              "ToolTip": "D:\\ASP.NET CORE MVC\\DAY3\\ASP.NET DAY3 EntityFrameWork\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "..\\ASP.NET DAY3 EntityFrameWork\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-03T20:44:43.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\ASP.NET CORE MVC\\DAY3\\ASP.NET DAY3 EntityFrameWork\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "..\\ASP.NET DAY3 EntityFrameWork\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\ASP.NET CORE MVC\\DAY3\\ASP.NET DAY3 EntityFrameWork\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "..\\ASP.NET DAY3 EntityFrameWork\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAQAAACgMzMzMzMrwA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T20:33:50.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "D:\\ASP.NET CORE MVC\\DAY3\\ASP.NET DAY3 EntityFrameWork\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "..\\ASP.NET DAY3 EntityFrameWork\\ViewModels\\LoginViewModel.cs",
+              "ToolTip": "D:\\ASP.NET CORE MVC\\DAY3\\ASP.NET DAY3 EntityFrameWork\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "..\\ASP.NET DAY3 EntityFrameWork\\ViewModels\\LoginViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T20:33:52.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\ASP.NET CORE MVC\\DAY3\\ASP.NET DAY3 EntityFrameWork\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "..\\ASP.NET DAY3 EntityFrameWork\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\ASP.NET CORE MVC\\DAY3\\ASP.NET DAY3 EntityFrameWork\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "..\\ASP.NET DAY3 EntityFrameWork\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T20:36:40.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20240228161658_m1.cs",
+              "DocumentMoniker": "D:\\ASP.NET CORE MVC\\DAY3\\ASP.NET DAY3 EntityFrameWork\\Migrations\\20240228161658_m1.cs",
+              "RelativeDocumentMoniker": "..\\ASP.NET DAY3 EntityFrameWork\\Migrations\\20240228161658_m1.cs",
+              "ToolTip": "D:\\ASP.NET CORE MVC\\DAY3\\ASP.NET DAY3 EntityFrameWork\\Migrations\\20240228161658_m1.cs",
+              "RelativeToolTip": "..\\ASP.NET DAY3 EntityFrameWork\\Migrations\\20240228161658_m1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T20:36:59.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET CORE MVC\\DAY3\\ASP.NET DAY3 EntityFrameWork\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "..\\ASP.NET DAY3 EntityFrameWork\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\ASP.NET CORE MVC\\DAY3\\ASP.NET DAY3 EntityFrameWork\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "..\\ASP.NET DAY3 EntityFrameWork\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAACUAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-02T12:35:30.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TestController.cs",
+              "DocumentMoniker": "D:\\ASP.NET CORE MVC\\DAY3\\ASP.NET DAY3 EntityFrameWork\\Controllers\\TestController.cs",
+              "RelativeDocumentMoniker": "..\\ASP.NET DAY3 EntityFrameWork\\Controllers\\TestController.cs",
+              "ToolTip": "D:\\ASP.NET CORE MVC\\DAY3\\ASP.NET DAY3 EntityFrameWork\\Controllers\\TestController.cs",
+              "RelativeToolTip": "..\\ASP.NET DAY3 EntityFrameWork\\Controllers\\TestController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T20:36:50.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20240228185810_email-column.cs",
+              "DocumentMoniker": "D:\\ASP.NET CORE MVC\\DAY3\\ASP.NET DAY3 EntityFrameWork\\Migrations\\20240228185810_email-column.cs",
+              "RelativeDocumentMoniker": "..\\ASP.NET DAY3 EntityFrameWork\\Migrations\\20240228185810_email-column.cs",
+              "ToolTip": "D:\\ASP.NET CORE MVC\\DAY3\\ASP.NET DAY3 EntityFrameWork\\Migrations\\20240228185810_email-column.cs",
+              "RelativeToolTip": "..\\ASP.NET DAY3 EntityFrameWork\\Migrations\\20240228185810_email-column.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T20:37:08.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "D:\\ASP.NET CORE MVC\\DAY3\\ASP.NET DAY3 EntityFrameWork\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "..\\ASP.NET DAY3 EntityFrameWork\\ViewModels\\LoginViewModel.cs",
+              "ToolTip": "D:\\ASP.NET CORE MVC\\DAY3\\ASP.NET DAY3 EntityFrameWork\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "..\\ASP.NET DAY3 EntityFrameWork\\ViewModels\\LoginViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T13:28:32.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\ASP.NET CORE MVC\\DAY3\\ASP.NET DAY3 EntityFrameWork\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "..\\ASP.NET DAY3 EntityFrameWork\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\ASP.NET CORE MVC\\DAY3\\ASP.NET DAY3 EntityFrameWork\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "..\\ASP.NET DAY3 EntityFrameWork\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T13:21:11.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Role.cs",
+              "DocumentMoniker": "D:\\ASP.NET CORE MVC\\DAY3\\ASP.NET DAY3 EntityFrameWork\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "..\\ASP.NET DAY3 EntityFrameWork\\Models\\Role.cs",
+              "ToolTip": "D:\\ASP.NET CORE MVC\\DAY3\\ASP.NET DAY3 EntityFrameWork\\Models\\Role.cs",
+              "RelativeToolTip": "..\\ASP.NET DAY3 EntityFrameWork\\Models\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T12:49:43.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\ASP.NET CORE MVC\\DAY3\\ASP.NET DAY3 EntityFrameWork\\Models\\User.cs",
+              "RelativeDocumentMoniker": "..\\ASP.NET DAY3 EntityFrameWork\\Models\\User.cs",
+              "ToolTip": "D:\\ASP.NET CORE MVC\\DAY3\\ASP.NET DAY3 EntityFrameWork\\Models\\User.cs",
+              "RelativeToolTip": "..\\ASP.NET DAY3 EntityFrameWork\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T12:46:30.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ITIContext.cs",
+              "DocumentMoniker": "D:\\ASP.NET CORE MVC\\DAY3\\ASP.NET DAY3 EntityFrameWork\\Models\\ITIContext.cs",
+              "RelativeDocumentMoniker": "..\\ASP.NET DAY3 EntityFrameWork\\Models\\ITIContext.cs",
+              "ToolTip": "D:\\ASP.NET CORE MVC\\DAY3\\ASP.NET DAY3 EntityFrameWork\\Models\\ITIContext.cs",
+              "RelativeToolTip": "..\\ASP.NET DAY3 EntityFrameWork\\Models\\ITIContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T20:49:57.084Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
